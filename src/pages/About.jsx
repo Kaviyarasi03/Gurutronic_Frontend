@@ -1,5 +1,5 @@
 import React from "react";
-import Header from "../src/components/Header";
+import Header from "../components/Header";
 
 import aboutShowroom from "../assets/about_bg.png";
 import customer1 from "../assets/customer1.png";
