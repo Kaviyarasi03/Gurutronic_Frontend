@@ -1167,7 +1167,7 @@ function Footer() {
 
       <div className="relative mx-auto grid max-w-[1440px] grid-cols-1 gap-5 text-sm text-[#e7d8c2] sm:grid-cols-2 sm:gap-7 lg:grid-cols-5">
         <div className="rise rounded-[24px] border border-[#dba13a]/20 bg-black/35 p-5 backdrop-blur transition duration-500 hover:-translate-y-2 hover:border-[#dba13a] sm:rounded-[30px] sm:p-6">
-          <h3 className="font-serif text-2xl font-black text-[#d79d36] sm:text-3xl">
+          <h3 className="font-serif text-2xl font-black text-[#d79d36] sm:text-2xl">
             GURUTRONICS
           </h3>
 

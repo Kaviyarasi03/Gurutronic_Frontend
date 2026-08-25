@@ -233,7 +233,7 @@ export default function Cart() {
         subtotal,
         discount,
         total,
-        toEmail: "kaviyarasi1603@gmail.com",
+        toEmail: "gurutronicschennai@gmail.com",
       };
 
       const res = await fetch("https://gurutronics-backend.vercel.app/api/send-order-mail", {
@@ -726,7 +726,7 @@ function CheckoutModal({
             </button>
 
             <p className="text-center text-xs font-bold text-[#d8c8b1]">
-              Mail notification will be sent to kaviyarasi1603@gmail.com
+              Mail notification will be sent to gurutronicschennai@gmail.com
             </p>
           </div>
         </div>

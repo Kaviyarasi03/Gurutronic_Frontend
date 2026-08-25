@@ -132,7 +132,7 @@ Message:
 ${message}
 `;
 
-    window.location.href = `mailto:guruprasanth0752@gmail.com?subject=${encodeURIComponent(
+    window.location.href = `mailto:gurutronicschennai@gmail.com?subject=${encodeURIComponent(
       subject
     )}&body=${encodeURIComponent(body)}`;
   };
@@ -155,7 +155,7 @@ ${message}
 `;
 
     window.open(
-      `https://wa.me/916835183586?text=${encodeURIComponent(whatsappMessage)}`,
+      `https://wa.me/+916385183586?text=${encodeURIComponent(whatsappMessage)}`,
       "_blank"
     );
   };
@@ -596,7 +596,7 @@ function ContactDetails() {
       <div className="mt-8 space-y-5">
         <ContactRow icon="phone" text="68351 83586" />
         <ContactRow icon="phone" text="93616 70331" />
-        <ContactRow icon="mail" text="gurutronicschennai@gmail.com" />
+        <ContactRow icon="mail" text="Gurutronicschennai@gmail.com" />
         <ContactRow icon="map" text="Chennai, Tamil Nadu, India" />
       </div>
 
